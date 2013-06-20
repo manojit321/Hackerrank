@@ -5,3 +5,4 @@ http://stackoverflow.com/questions/2695746/how-to-get-a-list-of-installed-androi
 http://qtcstation.com/2011/02/how-to-launch-another-app-from-your-app/
 http://codinggeekorg.wordpress.com/2011/01/31/android-home-screen-shortcuts-part-iii-remove-shortcuts/#
 http://www.google.co.uk/latitude
+http://code4reference.com/2012/07/tutorial-android-voice-recognition/
