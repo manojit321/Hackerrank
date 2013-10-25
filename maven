@@ -1,0 +1,32 @@
+//setup maven for my app
+1.goto my project
+2.mvn archetype:generate
+3.give a number coressponding to my app
+4.choose version of archtype
+5.group id:package name
+6.artifact id:JAR or WAR name
+7.version no.:
+8.Y
+
+
+//compile & build app
+1.goto dir where pom.xml is present
+2.mvn compile
+3.mvn test
+4.mvn package
+5.mvn instal  to install in mvn repository
+6.mvn clean
+
+//build & plugin
+
+
+
+how to do we say maven to download jar from central repository
+1.add adependency tag for that jar dependency tag
+search for maven repository search in google to get
+scope is used to define when the jar is needed.compile is a default scope
+
+
+note:
+Maven takes care of all related dependency
+java -cp jarname class name
